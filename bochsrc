@@ -1,0 +1,4 @@
+#bochs configuration
+
+boot: floppy
+floppya: type=1_44, 1_44="boot.img", status=inserted, write_protected=0
